@@ -7,5 +7,5 @@ setup(name='pythonpackagesample',
       author='Prof. Manoel Gadi',
       author_email='mfalonso@faculty.ie.edu',
       license='MIT',
-      packages=['pythonpackagesample'],
+          packages=['pythonpackagesample'],
       zip_safe=False)
