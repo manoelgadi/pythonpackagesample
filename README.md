@@ -8,6 +8,8 @@ You need to follow in order to adapt and publish your own Python Package in your
 ## Please give your start to this project if you like it!
 
 
+---
+
 ## Download Git Bash
 
 
