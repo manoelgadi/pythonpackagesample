@@ -10,7 +10,7 @@ You need to follow in order to adapt and publish your own Python Package in your
 
 ---
 
-## Download Git Bash
+## Step 1 - Download Git Bash
 
 
 ## Open Git Bash, and inside Git Bash go to a directory where you have permission to save things:
