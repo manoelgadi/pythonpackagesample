@@ -75,24 +75,20 @@ twine upload -r testpypi dist/
 
 
 
--> Create an account for https://pypi.org/, confirm your email! and upload the package.
+## Create an account for https://pypi.org/, confirm your email before proceeding and upload the package to https://pypi.org/ using twine.
 
 twine upload -r pypi dist/
 
 
 
--> Now you and anyone can install your package by using:
+## Now you and anyone can install your package by using:
 
 pip install fairdetect_X
 
 
 
 
-
-Please let me know if you have any issue following this steps. Welcome, you are now a Python packge creator ;-)
-
-
+Please let me know if you have any issue you drop me an email: mfalonso@faculty.ie.edu
 
 Best,
-
 Prof. Manoel Gadi
