@@ -54,6 +54,9 @@ git add .
 ## Put a commit message, it is mandatory!
 git commit -m "uploading my first python package"  
 
+## Pushing all to GitHub!
+git push origin master
+
 ## Now, open Anaconda Prompt - go to the directory where the package is:
 cd C:\....
 
