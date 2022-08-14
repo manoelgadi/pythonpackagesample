@@ -76,13 +76,13 @@ python setup.py bdist_wheel sdist
 
 ## Create an account for https://test.pypi.org/, confirm your email before proceeding and upload the package to https://test.pypi.org/ using twine.
 
-twine upload -r testpypi dist/
+twine upload -r testpypi dist/*
 
 
 
 ## Create an account for https://pypi.org/, confirm your email before proceeding and upload the package to https://pypi.org/ using twine.
 
-twine upload -r pypi dist/
+twine upload -r pypi dist/*
 
 
 
